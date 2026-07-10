@@ -31,7 +31,6 @@ INSCRIÇÃO DA CATEQUESE 2026
 
       ✔ O Google pode solicitar login para envio dos arquivos.<br><br>
 
-      ✔ Todos os arquivos enviados ficam armazenados no Google Drive.
     </p>
   </div>
 
