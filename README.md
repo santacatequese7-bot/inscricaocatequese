@@ -135,7 +135,7 @@
 
       <!-- SUBSTITUA PELO LINK DO SEU GOOGLE FORMS -->
       <iframe 
-        src="https://docs.google.com/forms/d/e/1FAIpQLSf6sVY60RqrQjilpxWCkHxiAip-LNQHLr9jL9ydJq_PPs0zGg/viewform?usp=header">
+        src="https://docs.google.com/forms/d/e/1FAIpQLSf6sVY60RqrQjilpxWCkHxiAip-LNQHLr9jL9ydJq_PPs0zGg/viewform?usp=header"
         Carregando…
       </iframe>
 
