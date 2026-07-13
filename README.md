@@ -38,7 +38,7 @@ display:inline-block;
 
 </a>
 
-</div>
+
 
       <div class="info">
         <h3>Informações importantes</h3>
