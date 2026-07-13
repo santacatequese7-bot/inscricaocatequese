@@ -9,8 +9,8 @@
     body{
       font-family: Arial, Helvetica, sans-serif;
       background: linear-gradient(135deg,#0f172a,#1e293b);
-      min-height:100vh;
-      padding:100px;
+      min-height:200vh;
+      padding:500px;
       display:flex;
       align-items:center;
       justify-content:center;
