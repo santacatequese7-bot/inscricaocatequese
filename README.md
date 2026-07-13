@@ -109,7 +109,7 @@
         
       </div>
 
-      <h1>Envio de Imagens</h1>
+      
       <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
 
       <p class="subtitulo">
