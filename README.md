@@ -54,6 +54,6 @@ display:inline-block;
 
     <div class="rodape">
       Desenvolvido para coleta segura de arquivos e imagens
-    </div>
+    
   Desenvolvido para coleta segura de arquivos e imagens
 </div>
