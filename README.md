@@ -125,8 +125,7 @@
 
     <div class="topo">
 
-      <div class="Ficha.png">
-        
+            
       </div>
 
       
