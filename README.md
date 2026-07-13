@@ -110,6 +110,20 @@
         height:1200px;
       }
     }
+    
+ </style>
+
+<body>
+
+  <div class="container">
+
+    <div class="topo">
+
+      <div class="logo">
+        
+      </div>
+
+      <h1>Envio de Imagens</h1>
  
       <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
 
