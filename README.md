@@ -132,7 +132,7 @@ font-size:22px;
 display:inline-block;
 ">
 
-📄 Fazer Inscrição
+                 📄 Fazer Inscrição
 
 </a>
 
