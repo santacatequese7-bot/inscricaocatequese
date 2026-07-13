@@ -50,7 +50,7 @@ display:inline-block;
           </p>
       </div>
 
-    </div>
+  
 
     <div class="rodape">
       Desenvolvido para coleta segura de arquivos e imagens
