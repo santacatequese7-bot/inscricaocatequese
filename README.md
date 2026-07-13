@@ -7,7 +7,7 @@
 
     <div class="topo">
 
-      <div class="logo">
+      <div class="Ficha.png">
         
       </div>
 
