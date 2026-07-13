@@ -8,7 +8,7 @@
 
     <div class="topo">
 
-      <div class="logo">
+    
         
       </div>
 
