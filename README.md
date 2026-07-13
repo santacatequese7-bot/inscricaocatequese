@@ -9,8 +9,8 @@
     body{
       font-family: Arial, Helvetica, sans-serif;
       background: linear-gradient(135deg,#0f172a,#1e293b);
-      min-height:200vh;
-      padding:500px;
+      min-height:100vh;
+      padding:30px;
       display:flex;
       align-items:center;
       justify-content:center;
@@ -28,6 +28,26 @@
       box-shadow:0 10px 30px rgba(0,0,0,0.35);
     }
 
+   .botao-centro{
+    text-align:center;
+    margin:30px 0;
+}
+
+.btn-inscricao{
+    background:#2563eb;
+    color:#fff;
+    padding:18px 40px;
+    text-decoration:none;
+    border-radius:10px;
+    font-size:22px;
+    display:inline-block;
+    transition:0.3s;
+}
+
+.btn-inscricao:hover{
+    background:#1d4ed8;
+    transform:scale(1.03);
+}
     .topo{
       padding:40px;
       text-align:center;
@@ -119,22 +139,14 @@
     </div>
 
 
-<a
-href="https://docs.google.com/forms/d/e/1FAIpQLSf6sVY60RqrQjilpxWCkHxiAip-LNQHLr9jL9ydJq_PPs0zGg/viewform"
-target="_blank"
-style="
-background:#2563eb;
-color:white;
-padding:18px 40px;
-text-decoration:none;
-border-radius:10px;
-font-size:22px;
-display:inline-block;
-">
-
-                 📄 Fazer Inscrição
-
-</a>
+<div class="botao-centro">
+    <a
+    href="https://docs.google.com/forms/d/e/1FAIpQLSf6sVY60RqrQjilpxWCkHxiAip-LNQHLr9jL9ydJq_PPs0zGg/viewform"
+    target="_blank"
+    class="btn-inscricao">
+        📄 Fazer Inscrição
+    </a>
+</div>
 
 
 
