@@ -18,15 +18,16 @@
     }
 
     .container{
-      width:100%;
-      max-width:1100px;
-      background: rgba(255,255,255,0.08);
-      backdrop-filter: blur(12px);
-      border:1px solid rgba(255,255,255,0.15);
-      border-radius:20px;
-      overflow:hidden;
-      box-shadow:0 10px 30px rgba(0,0,0,0.35);
-    }
+    width:100%;
+    max-width:700px;   /* diminui a largura */
+    margin:0 auto;     /* garante a centralização */
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(12px);
+    border:1px solid rgba(255,255,255,0.15);
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 10px 30px rgba(0,0,0,0.35);
+}
 
    .botao-centro{
     text-align:center;
