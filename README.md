@@ -1,18 +1,6 @@
 # Paróquia Nossa Senhora das Graças
   
-  </style>
-
-<body>
-
-  <div class="container">
-
-    <div class="topo">
-
-    
-        
-      </div>
-
-      <h1>Envio de Imagens</h1>
+ 
       <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
 
       <p class="subtitulo">
