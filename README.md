@@ -1,5 +1,5 @@
 # Paróquia Nossa Senhora das Graças
-  <style>
+ <style>
     *{
       margin:0;
       padding:0;
@@ -110,8 +110,7 @@
         height:1200px;
       }
     }
-    
- </style>
+  </style>
 
 <body>
 
@@ -124,7 +123,6 @@
       </div>
 
       <h1>Envio de Imagens</h1>
- 
       <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
 
       <p class="subtitulo">
@@ -133,13 +131,6 @@
 
     </div>
 
-   <div style="text-align:center; padding:40px;">
-
-<h2>Inscrição para Catequese</h2>
-
-<p style="margin:20px 0;">
-Clique no botão abaixo para preencher a ficha e enviar as fotos dos documentos.
-</p>
 
 <a
 href="https://docs.google.com/forms/d/e/1FAIpQLSf6sVY60RqrQjilpxWCkHxiAip-LNQHLr9jL9ydJq_PPs0zGg/viewform"
