@@ -85,6 +85,13 @@
       color:#dbeafe;
     }
 
+   .logo{
+    display:block;
+    margin:0 auto 20px auto;
+    max-width:300px;
+    width:100%;
+    height:auto;
+}
     .info h3{
       margin-bottom:10px;
       color:#fff;
@@ -129,7 +136,7 @@
       </div>
 
       
-      <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
+     <img src="Ficha.png" alt="Descrição da imagem" class="logo">
 
       <p class="subtitulo">
         Preencha o formulário abaixo e anexe suas imagens com segurança.
