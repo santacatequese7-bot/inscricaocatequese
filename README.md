@@ -10,7 +10,7 @@
       font-family: Arial, Helvetica, sans-serif;
       background: linear-gradient(135deg,#0f172a,#1e293b);
       min-height:100vh;
-      padding:30px;
+      padding:100px;
       display:flex;
       align-items:center;
       justify-content:center;
